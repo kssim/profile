@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>kssim</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+  
+  <!-- Font Awesome -->
+  <link rel="stylesheet" type="text/css" href="/assets/css/fontawesome-all.min.css">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon.ico">
+
+  <!-- Google Analytics -->
+  
+
+  <script>
+    var host = "profile.kssim.com";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+      window.location.protocol = "https";
+  </script>
+
+</head>
+
+
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="https://kssim.com">
+          <h2 class="nav-title">kssim</h2>
+        </a>
+        <ul>
+          <li><a href="/">About</a></li>
+          <li><a href="/portfolio/">Portfolio</a></li>
+        </ul>
+    </div>
+  </nav>
+
+    <main>
+      <div class="post">
+  <h2 class="post-title">Building Debian APT Server</h2>
+  <div class="post-line"></div>
+
+  <h2 id="project-period--property">Project Period &amp; Property</h2>
+<p>Designed and developed by myself and takes about 2 weeks.</p>
+
+<h2 id="background">Background</h2>
+<p>Debian provides APT server as a repository for uploading and downloading packages.<br />
+This APT server is supported by multiple mirror servers, but when the distribution becomes EOL, the server disappears.<br />
+Of course, you can get packages from an archived server, but not all packages.<br />
+So I built an APT server in-house, mirrored the external package server, took a snapshot and managed it.</p>
+
+<h2 id="check">Check</h2>
+<ul>
+  <li>Reviewing libraries to build APT server.
+    <ul>
+      <li>reprepro and ftparchive, aptly, etc…</li>
+      <li>Considering the purpose and technical difficulty, aptly was appropriate.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="technical-summary">Technical Summary</h2>
+<ul>
+  <li>Building APT server using <a href="https://www.aptly.info/">aptly</a>.</li>
+  <li>Build mirror server with aptly and snapshot management.</li>
+  <li>Separate the accounts of Linux server, build mrror server and in-house package upload server.</li>
+  <li>Develop upload script to make package management easy for in-house upload server.</li>
+</ul>
+
+<h2 id="content">Content</h2>
+<p>I built a server with Debian, and installed aptly and related libraries.<br />
+And I split up the accounts and made it possible to upload in-house packages with 80 ports in one account.<br />
+In other accounts, I mirrored the external APT server to port 8080, created a snapshot and served it.<br />
+Finally, I created a script to make it easy to upload files to in-house APT server.<br />
+This allows you to process package uploads and server updates at once.</p>
+
+
+</div>
+
+<div class="pagination">
+  
+  
+
+  <a href="#" class="top">Top</a>
+</div>
+
+    </main>
+
+    <footer>
+      <span>
+        &copy; <time datetime="2018-04-03 08:45:23 +0900">2018</time> KyeongSeob Sim.
+      </span>
+    </footer>
+  </body>
+</html>
