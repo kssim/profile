@@ -12,36 +12,77 @@ I hope that users will enjoy using my products and services. And I want to make 
 # Career
 - Penta Security System (6Y 4M)
   - Infrastructure development (2018/01 ~ )
-    - Team Manager
-    - I was responsible for in-house enterpise OS and driver development.
-    - I was also responsible for daemon and API development of in-house enterpise OS.
-    - I was also responsible for porting hardware devices and porting the OS to various virtualization environments.
+    - Role
+      - Team Manager
+      - In-house enterpise OS and driver development.
+      - Daemon and API development of in-house enterpise OS.
+      - Porting hardware devices and porting the OS to various virtualization environments.
+    - Experience
   - Detection engine development (2017/08 ~ 2017/12)
-    - I was responsible for session processing and functional enhancement of new detection engine.
+    - Role
+      - Maintain detection engine of WAPPLES (WAF) and fix bugs.
+      - WAPPLES's (WAF) new detection engine development.
+    - Experience
+      - Improvement of file upload function of detection engine.
+      - Improvement of packet test simulator of detection engine.
+      - Development of access control function of detection engine.
+      - Enhanced handling of each large packet for normal(content-length), chunked, multi-part.
+      - Improved session handling and interface enhancement.
   - Foundation development (2016/01 ~ 2017/07)
-    - Team Manager
-    - I was responsible for the basic daemon and API development.
-    - I was also responsible for integrated packageing of WAPPLES.
-    - I was also responsible for the development and deployment of WAPPLES's OS(Linux base). 
-  - Network platform development(2013/11 ~ 2015/12)
-    - I was responsible for developing TCP acceleration module(Linux kernel module).
-    - I was also responsible for building the TCP session test enviroment. 
+    - Role
+      - Team Manager
+      - Debian and Gentoo Linux management and deployment.
+      - WAPPLES (WAF) create and deploy integrated packages.
+      - WAPPLES (WAF) based daemon, CLI development and management.
+    - Experience
+      - Porting a Debian6(kernel 2.6.32) based kernel to Debian8(kernel 3.16).
+      - WAF support for AWS and MS-Azure, Google Cloud Platform and IBM Softlayer.
+      - Deployment and advancement of enterprise integrated OS based on debian.
+      - Development of base daemon used in WAF (Network, Resource, Bypass, SNMP, etc...).
+      - Process improvement inside WAF (initd -> systemd / socket based -> d-bus).
+      - Development of functions for domestic CC certification(Korea).
+      - Server hardware, bypass/NIC/RAID drivers management based on intel. 
+      - Development of integrated package automation test framework using Python, Bash-shell, Jmeter and Jenkins.
+      - Development of WAF performance measurement automation program for Avalanche3100 using Jenkins and TCL.
+      - OpenVPN based SSL VPN product development and domestic CC certification support.
+  - Network platform development (2013/11 ~ 2015/12)
+    - Role
+      - WAPPLES (WAF) TCP acceleration module and daemon development.
+      - Custom linux development and security patch for TCP acceleration module.
+      - Intel-based hardware management and performance measurement.
+    - Experience
+      - Maintaining thg WAF TCP acceleration kernel module.
+      - Development of IPv6 support function of TCP acceleration module.
+      - Development of TCP packet processing simulator.
+      - Gentoo-based custom kernel and kernel modules, drivers maintenance.
+      - Debian-based custom kernel development and Gentoo porting.
+      - CLI and daemon development related to function setting.
+      - Server hardware, bypass/NIC/RAID drivers management based on intel. 
+      - Support for virtualization environments such as Hyper-V, RHEL and KVM.
+      - Measure and manage performance with Avalanche2900/3100, Breaking Point.
   - UX development (2012/01 ~ 2013/10)
-    - I was responsible for developing a new UI for WAPPLES.
-    - I was also responsible for the building of automated UI testing.
-- ENTO Networks (11M)
+    - Role
+      - GUI development of next WAPPLES (WAF). 
+    - Experience
+      - Maintaining the WAF GUI using C#, .Netplatform and PostgreSQL.
+      - WAF GUI development using C# and .Netplatform.
+      - DB interface development of MariaDB and CouchDB.
+      - Build GUI build and test automation using TestComplete, Python.
+      - International CC Certification.
+- ENTO Networks (1Y)
   - VPN development (2011/01 ~ 2011/12)
-    - Developed VPN using HA technology.
-    - Use two lines to connect to a fast VPN connection.
-    - I was responsible for developing VPN server and client.
-      - The server was developed using Linux based netfilter library and C/C++.
-      - The client was developed for Windows XP and Win 7.
-        - Windows XP used "WinAPI" and C.
-        - Win7 used C#.
-      - I also developed windows network driver using NDIS.
+    - Role
+      - Development of debian-based VPN packet processing server.
+      - Windows XP and Win7 based client and network driver development.
+    - Experience
+      - Development of VPN packet processing server using netfilter library and C.
+      - Maintain Windows XP client with WinAPI and C.
+      - Win7 based client development using C# and .Netfraemwork.
+      - Deveopment of Windows XP driver using "path through" of NDIS.
+      - Developemtn of Win7 packet processing driver using WDK.
 
 
-# Interests & Experience
+# Experience
 - Languages
   - Best : C/C++, Python, Shell
   - Else : PHP, Javascript, C#
@@ -51,8 +92,7 @@ I hope that users will enjoy using my products and services. And I want to make 
   - CLI, Systemd, D-bus
 - Platforms
   - Linux (Debian, Ubuntu, Gentoo, CentOS - specially Debian)
-  - Kernel Module/Drivers (i2c, pmbus, network, bypass)
-  - Librarys & Frameworks
+  - Kernel Module/Drivers (i2c, pmbus, network, bypass) - Librarys & Frameworks
     - Apache2, Nginx
     - Mysql, MariaDB, PostgreSQL, CouchDB
     - Django, Laravel, Node.js
@@ -62,6 +102,8 @@ I hope that users will enjoy using my products and services. And I want to make 
     - RHEL, KVM, Hyper-V, Xen, vSphere
 - Development Methodologies
   - Agile, Scrum, Kanban, Lean
+- Etc
+  - Avalanche2900, Avalanche3100, Breaking Point
 
 
 # Education
