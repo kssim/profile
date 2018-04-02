@@ -55,7 +55,6 @@ I want to develop a program for a long time. :)
     - Build in-house debian package server(APT).
     - Development of functions for domestic CC certification(Korea).
     - Server hardware, bypass/NIC/RAID drivers management based on intel. 
-    - Development of integrated package automation test framework using Python, Bash-shell, Jmeter and Jenkins.
     - Development of WAF performance measurement automation program for Avalanche3100 using Jenkins and TCL.
     - OpenVPN based SSL VPN product development and domestic CC certification support.
 
@@ -68,6 +67,7 @@ I want to develop a program for a long time. :)
     - Maintaining thg WAF TCP acceleration kernel module.
     - Development of IPv6 support function of TCP acceleration module.
     - Development of TCP packet processing simulator.
+    - Development of integrated package automation test framework using Python, Bash-shell, Jmeter and Jenkins.
     - Gentoo-based custom kernel and kernel modules, drivers maintenance.
     - Debian-based custom kernel development and Gentoo porting.
     - CLI and daemon development related to function setting.
@@ -84,6 +84,7 @@ I want to develop a program for a long time. :)
     - DB interface development of MariaDB and CouchDB.
     - Build GUI build and test automation using TestComplete, Python.
     - International CC certification.
+    - Investigate obfuscation methods for code security in the WAF GUI.
 
 ### ENTO Networks (1Y)
 - VPN development (2011/01 ~ 2011/12)
@@ -116,7 +117,7 @@ I want to develop a program for a long time. :)
   - Librarys & Frameworks
     - Apache2, Nginx, Django, Node.js, Laravel
     - Mysql, MariaDB, PostgreSQL, CouchDB, Sqlite
-  - Windows (clumsy)
+  - Windows (Unfamiliar)
     - Windows XP, Win7
     - WinAPI, .NetPlatform, WDK, NDIS
 - Infrastructures
@@ -161,9 +162,11 @@ I want to develop a program for a long time. :)
 
 # Publish
 - Effective Python Flow Control
-  - Working title, Comming to be published in May 2018)
+  - Working title
+  - Comming to be published in May 2018
 
 
 # Activity 
 - [Ubuntu Korea Packaging Workshop Speaker (2018/03/31)](https://github.com/kssim/2018-korea-ubuntu-packaging-workshop)
 - [OfficeN Job Interview (2016/04)](http://officen.kr/ajax/ajaxmeminfo.do?memberID=444)
+- [Penta Security Excellent Staff Award (2013/07/19)](http://www.itonair.tv/%ED%8E%9C%ED%83%80%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A3%BC-%EC%B0%BD%EB%A6%BD-16%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90%EC%8B%9D/)
