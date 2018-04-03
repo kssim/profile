@@ -5,13 +5,13 @@ layout: about
 # About Me
 I'm a software programmer who likes traveling and photography, coffee and books.  
 I like Linux and python, and I'm interested in automation, non-binary code and system architecture.  
-I want to write code like writing, and I hate inefficient, unproductive things.  
+I want to write code like writing, and I don't like inefficient, unproductive things.  
 I'm interested in new technologies and languages. And I'm also interested in improving the inconvenience of working with developers.  
 I want to develop a program for a long time. :)
 
 <br/>
 
-# Career
+# Professional Experiences 
 ### Penta Security System (6Y 4M)
 - Infrastructure development (2018/01 ~ )
   - Role
@@ -99,11 +99,10 @@ I want to develop a program for a long time. :)
     - Developemtn of Win7 packet processing driver using WDK.
 
 
-# Experience
+# Technical Skills 
 - Languages
-  - Best : C/C++, Python, Shell
-  - Else : PHP, Javascript, C#, Swift
-  - Knowing : Ruby, Go, Kotlin, TCL, OCaml
+  - Proficient : C/C++, Python, Shell
+  - Prior experiences : PHP, Javascript, C#, Swift, Ruby
 - Service & Applications
   - Building experience : Jenkins, Gerrit, MediaWiki, Redmine, iceScrum, Mantis
   - CLI, Systemd, D-bus, Memcached, Proc system
