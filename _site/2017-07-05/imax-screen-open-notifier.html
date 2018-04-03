@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>kssim</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+  
+  <!-- Font Awesome -->
+  <link rel="stylesheet" type="text/css" href="/assets/css/fontawesome-all.min.css">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon.ico">
+
+  <!-- Google Analytics -->
+  
+
+  <script>
+    var host = "profile.kssim.com";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+      window.location.protocol = "https";
+  </script>
+
+</head>
+
+
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="https://kssim.com">
+          <h2 class="nav-title">kssim</h2>
+        </a>
+        <ul>
+          <li><a href="/">About</a></li>
+          <li><a href="/portfolio/">Portfolio</a></li>
+        </ul>
+    </div>
+  </nav>
+
+    <main>
+      <div class="post">
+  <h2 class="post-title">IMAX Screen Open Notifier</h2>
+  <div class="post-line"></div>
+
+  <h2 id="project-period--property">Project Period &amp; Property</h2>
+<p>Designed and developed by myself and takes about 1 week.<br />
+It’s a toy project.</p>
+
+<h2 id="background">Background</h2>
+<p>There was a lot of competition to make reservations at large multiplexes that show IMAX.<br />
+Because it is the largest IMAX movie theater in Korea, seats and reservations were fierce.<br />
+So I made a feature that would let me know if IMAX reservations were avaliable.</p>
+
+<h2 id="check">Check</h2>
+<ul>
+  <li>How to check the IMAX ticket reservation time.
+    <ul>
+      <li>Does not provide any additional functions on the multiplex homepage.</li>
+      <li>So must parse html directly.</li>
+    </ul>
+  </li>
+  <li>How to notify to me.
+    <ul>
+      <li>Set to notify via slack API.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="technical-summary">Technical Summary</h2>
+<ul>
+  <li>Periodic monitoring work.</li>
+  <li>HTML parsing.</li>
+  <li>Slack API interlock.</li>
+</ul>
+
+<h2 id="content">Content</h2>
+<p>Periodically check the reservation status on the multiplex homepage.<br />
+Parses the query results to see if there are new reservations.<br />
+If available, send a notification via slack API.</p>
+
+
+</div>
+
+<div class="pagination">
+  
+  
+    <a href="/2016-05-26/vim-kordic-plugin" class="right next">Next</a>
+  
+
+  <a href="#" class="top">Top</a>
+</div>
+
+    </main>
+
+    <footer>
+      <span>
+        &copy; <time datetime="2018-04-04 08:42:18 +0900">2018</time> KyeongSeob Sim.
+      </span>
+    </footer>
+  </body>
+</html>
