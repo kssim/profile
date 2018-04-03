@@ -26,6 +26,19 @@
     }
   }
 
+  .content {
+    li {
+      font-weight: bold;
+    }
+    li li {
+      font-weight: normal;
+    }
+
+    a {
+      color: $default-color;
+    }
+  }
+
   &-icon {
     margin-left: 1.3rem;
     line-height: 2rem;
