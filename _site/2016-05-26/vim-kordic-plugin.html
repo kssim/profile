@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>kssim</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+  
+  <!-- Font Awesome -->
+  <link rel="stylesheet" type="text/css" href="/assets/css/fontawesome-all.min.css">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon.ico">
+
+  <!-- Google Analytics -->
+  
+
+  <script>
+    var host = "profile.kssim.com";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+      window.location.protocol = "https";
+  </script>
+
+</head>
+
+
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="https://kssim.com">
+          <h2 class="nav-title">kssim</h2>
+        </a>
+        <ul>
+          <li><a href="/">About</a></li>
+          <li><a href="/portfolio/">Portfolio</a></li>
+        </ul>
+    </div>
+  </nav>
+
+    <main>
+      <div class="post">
+  <h2 class="post-title">vim-korDic plugin</h2>
+  <div class="post-line"></div>
+
+  <h2 id="project-period--property">Project Period &amp; Property</h2>
+<p>Designed and developed by myself and takes about 1 month.<br />
+It’s a toy project.</p>
+
+<h2 id="background">Background</h2>
+<p>When I use vim, I often have to translate English into Korean.<br />
+So, I created a plugin for vim so that I could translate it into simple command in vim.</p>
+
+<h2 id="check">Check</h2>
+<ul>
+  <li>How to create to a vim plugin.
+    <ul>
+      <li>There were serveral ways, but using vim-nox was the simplest.</li>
+      <li>Using vim-nox did not develop native plugins for vim.
+        <ul>
+          <li>So I need additional packages and some functional limitations, but this is negligible.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="technical-summary">Technical Summary</h2>
+<ul>
+  <li>Create a Python plugin available in vim using vim-nox.</li>
+  <li>Translate the words I want to search for on web, which provides dictionary services.</li>
+  <li>Parses translated words from the web and displays a new window on vim’s screen.</li>
+  <li>The HTML parsing library depends on the version of Python, so implemented to support all.</li>
+</ul>
+
+<h2 id="content">Content</h2>
+<p>Develop vim plugin in Python using vim-nox.<br />
+Python queries the protal site for word searches and parses the query results.<br />
+Display the results fo the search in a new window of vim.</p>
+
+<p>It’s simple to use. Place the cursor on the word you want to search for, and type the command to translate the word.</p>
+
+<h2 id="link">Link</h2>
+<p><a href="https://github.com/kssim/vim-korDic">vim-korDic github</a></p>
+
+
+</div>
+
+<div class="pagination">
+  
+    <a href="/2017-07-05/imax-screen-open-notifier" class="left next">Prev</a>
+  
+  
+    <a href="/2016-05-01/building-debian-apt-server" class="right next">Next</a>
+  
+
+  <a href="#" class="top">Top</a>
+</div>
+
+    </main>
+
+    <footer>
+      <span>
+        &copy; <time datetime="2018-04-04 08:19:07 +0900">2018</time> KyeongSeob Sim.
+      </span>
+    </footer>
+  </body>
+</html>
