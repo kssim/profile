@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Building Debian APT Server"
-info: "Building Debian APT Server"
-tech : "Debian, Bash, APT, aptly"
+info: "Building Debian APT Server."
+tech: "Debian, Bash, APT, aptly"
+type: Penta
 ---
 
 ## Project Period & Property

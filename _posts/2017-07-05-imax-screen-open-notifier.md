@@ -2,7 +2,8 @@
 layout: post
 title: IMAX Screen Open Notifier
 info: Create bots that send slack notifications when the theaters begin to book.
-tech : "Python, HTML, Slack API, HTML parse"
+tech: "Python, HTML, Slack API, HTML parse"
+type: Toy
 ---
 
 ## Project Period & Property
