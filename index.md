@@ -168,4 +168,5 @@ I want to develop a program for a long time. :)
 # Activity 
 - [Ubuntu Korea Packaging Workshop Speaker (2018/03/31)](https://github.com/kssim/2018-korea-ubuntu-packaging-workshop)
 - [OfficeN Job Interview (2016/04)](http://officen.kr/ajax/ajaxmeminfo.do?memberID=444)
-- [Penta Security Excellent Staff Award (2013/07/19)](http://www.itonair.tv/%ED%8E%9C%ED%83%80%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%A3%BC-%EC%B0%BD%EB%A6%BD-16%EC%A3%BC%EB%85%84-%EA%B8%B0%EB%85%90%EC%8B%9D/)
+- Penta Security CON★T Hacker Fight Winner (Team ISeeTroughYou) (2014/12/12)
+- Penta Security Excellent Staff Award (2013/07/19)
