@@ -95,8 +95,8 @@ I want to develop a program for a long time. :)
     - Development of VPN packet processing server using netfilter library and C.
     - Maintain Windows XP client with WinAPI and C.
     - Win7 based client development using C# and .Netfraemwork.
-    - Deveopment of Windows XP driver using "path through" of NDIS.
-    - Developemtn of Win7 packet processing driver using WDK.
+    - Deveopment of Windows XP driver using "passthru" of DDK NDIS.
+    - Developemtn of Win7 packet processing driver using WDK NDIS.
 
 
 # Technical Skills 

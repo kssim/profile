@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Building Debian APT Server"
-info: "Building Debian APT Server."
-tech: "Debian, Bash, APT, aptly"
+title:  Building Debian APT Server
+info: Building Debian APT Server.
+tech: Debian, Bash, APT, aptly
 type: Penta
 ---
 

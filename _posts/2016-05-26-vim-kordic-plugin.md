@@ -1,8 +1,8 @@
 ---
 layout: post
-title: vim-korDic plugin
+title: Vim-korDic Plugin
 info: The vim plugin is a program that translates English words into Korean.
-tech: "Python, Vim, vim-nox, HTML parse"
+tech: Python, Vim, vim-nox, HTML parse
 type: Toy
 ---
 

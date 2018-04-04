@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>kssim</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+  
+  <!-- Font Awesome -->
+  <link rel="stylesheet" type="text/css" href="/assets/css/fontawesome-all.min.css">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon.ico">
+
+  <!-- Google Analytics -->
+  
+
+  <script>
+    var host = "profile.kssim.com";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+      window.location.protocol = "https";
+  </script>
+
+</head>
+
+
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="https://kssim.com">
+          <h2 class="nav-title">kssim</h2>
+        </a>
+        <ul>
+          <li><a href="/">About</a></li>
+          <li><a href="/portfolio/">Portfolio</a></li>
+        </ul>
+    </div>
+  </nav>
+
+    <main>
+      <div class="post">
+  <h2 class="post-title">Windows 7 Driver Development for VPN</h2>
+  <div class="post-line"></div>
+
+  <h2 id="project-period--property">Project Period &amp; Property</h2>
+<p>Designed and developed by myself and takes about 3 months.</p>
+
+<h2 id="background">Background</h2>
+<p>New development needed to use Windows 7 build-in VPN protocol based on Windows XP.<br />
+When the VPN client is run, the drivers wrap the packets according to the internal VPN protocol and send them to the VPN server.<br />
+Therefor, it is necessary to develop a function to wrap the packet from the driver to the VPN server according to the protocol.</p>
+
+<h2 id="check">Check</h2>
+<ul>
+  <li>How to implement network driver in Windows 7.
+    <ul>
+      <li>Developed by referring to NDIS example of WDK.
+        <ul>
+          <li>In Windows XP there was a passthru example for DDK.</li>
+          <li>But, it was changed to WDK after Vista, and the passthru example disappeared.</li>
+        </ul>
+      </li>
+      <li>Segment processing for packets exceeding MSS size for TCP.</li>
+    </ul>
+  </li>
+  <li>How to test and debug using network drivers.
+    <ul>
+      <li>Remote debugging with WinDBG is possible because the system may hang when testing the driver.</li>
+      <li>If the VPN client is not working, I should treat it so that it does not wrap packets.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="technical-summary">Technical Summary</h2>
+<ul>
+  <li>Developed network driver for Windows 7.</li>
+  <li>When wrapping packets with the VPN protocol, be careful not to exceed the MSS size.</li>
+  <li>In the normal case, the packet is not wrapped.</li>
+  <li>Register the callback function appropriately to avoid system panic.</li>
+</ul>
+
+<h2 id="content">Content</h2>
+<p>TBD</p>
+
+
+</div>
+
+<div class="pagination">
+  
+    <a href="/2016-05-01/building-debian-apt-server" class="left next">Prev</a>
+  
+  
+
+  <a href="#" class="top">Top</a>
+</div>
+
+    </main>
+
+    <footer>
+      <span>
+        &copy; <time datetime="2018-04-04 12:50:19 +0900">2018</time> KyeongSeob Sim.
+      </span>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>kssim</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+  
+  <!-- Font Awesome -->
+  <link rel="stylesheet" type="text/css" href="/assets/css/fontawesome-all.min.css">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon.ico">
+
+  <!-- Google Analytics -->
+  
+
+  <script>
+    var host = "profile.kssim.com";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+      window.location.protocol = "https";
+  </script>
+
+</head>
+
+
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="https://kssim.com">
+          <h2 class="nav-title">kssim</h2>
+        </a>
+        <ul>
+          <li><a href="/">About</a></li>
+          <li><a href="/portfolio/">Portfolio</a></li>
+        </ul>
+    </div>
+  </nav>
+
+    <main>
+      <div class="post">
+  <h2 class="post-title">Upgrade the base kernel of the Web Firewall</h2>
+  <div class="post-line"></div>
+
+  <h2 id="project-period--property">Project Period &amp; Property</h2>
+<p>Designed and developed by myself and takes about 3 months.</p>
+
+<h2 id="background">Background</h2>
+<p>We were using Debian 6 as the base kernel in our Web Firewall.<br />
+By the way, Debian 6 was EOL in February 2016.<br />
+So, We were working on changing the base kernel to Debian 8.</p>
+
+<h2 id="check">Check</h2>
+<ul>
+  <li>Apply changes made in Debian 6 based kernel to Debian 8.</li>
+  <li>Major changes in Debian 8.</li>
+  <li>Easier deployment of modified base kernels.</li>
+</ul>
+
+<h2 id="technical-summary">Technical Summary</h2>
+<ul>
+  <li>Change the OS of the Web Firewall based on kernel 3.16</li>
+  <li>Apply the patches of existing customized kernel and fix conflicts (use quilt)</li>
+  <li>Create an ISO image to deploy the modified kernel (using debian-installer, simple-cdd, debian-cd, APT server)</li>
+</ul>
+
+<h2 id="content">Content</h2>
+<p>TBD</p>
+
+
+</div>
+
+<div class="pagination">
+  
+    <a href="/2016-05-01/building-debian-apt-server" class="left next">Prev</a>
+  
+  
+    <a href="/2011-05-09/windows7-driver-development-for-vpn-packet" class="right next">Next</a>
+  
+
+  <a href="#" class="top">Top</a>
+</div>
+
+    </main>
+
+    <footer>
+      <span>
+        &copy; <time datetime="2018-04-04 13:04:47 +0900">2018</time> KyeongSeob Sim.
+      </span>
+    </footer>
+  </body>
+</html>
