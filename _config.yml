@@ -3,7 +3,7 @@ title: kssim
 baseurl: ""
 url: https://profile.kssim.com
 enforce_ssl: profile.kssim.com
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
+google_analytics: UA-116951375-1
 
 # Author
 author:
