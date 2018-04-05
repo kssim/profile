@@ -20,7 +20,7 @@ I want to develop a program for a long time. :)
     - Development of in-house common infrastructure (Hardware, Virtualization).
   - Experience
     - Developed daemon, API, libraries included in OS (Network, Resource, Bypass, SNMP, etc...).
-    - Develop packages and libraries for in-house OS and in-house OS based on debian.
+    - Develop packages and libraries for in-house OS based on debian.
     - New CLI development included in in-house OS using Python.
     - New in-house OS design and development with enhanced security.
     - Internal interface design of in-house OS using D-bus and REST API.
