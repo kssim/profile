@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-I'm a software programmer who likes traveling and photography, coffee and books.  
+I'm a software developer who likes traveling and photography, coffee and books.  
 I like Linux and python, and I'm interested in automation, non-binary code and system architecture.  
 I want to write code like writing, and I don't like inefficient, unproductive things.  
 I'm interested in new technologies and languages. And I'm also interested in improving the inconvenience of working with developers.  
