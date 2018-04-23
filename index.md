@@ -160,9 +160,10 @@ I want to develop a program for a long time. :)
 
 
 # Publish
-- Effective Python Flow Control
-  - Working title
-  - Comming to be published in May 2018
+- 파이썬 답게 코딩하기 (프로그래밍 언어의 개념과 흐름에 대한 고찰)  
+  - [Yes24 Link](http://www.yes24.com/24/goods/60493752?scode=032&OzSrank=1)  
+  - [Bj PUBLIC](http://bjpublic.tistory.com/301)
+  
 
 
 # Activity 
