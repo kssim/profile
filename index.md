@@ -18,9 +18,10 @@ I want to develop a program for a long time. :)
      - Development of security and test environment for electric vehicle charging infrastructure.(PnC)
      - Development of demonstration program for vehicle related business.
   - Experience
-     - Mobile Bluetooth smart key development for demonstration with security.
-     - Development of security test environment for electric car charging process.(PnC)
-     - Development of TLS library to be embedded in EV(Electric Vehicle).
+     - Mobile Bluetooth smart key (Andorid App) development for demonstration with security.
+     - Development of security test environment for electric car charging process. (PnC)
+     - Development of TLS library to be embedded in EV. (Electric Vehicle)
+     - Develop web services to crawl announcements of national organizations related to vehicle business.
      - Development of certificate issuing web service according to ISO 15118. (Called AuthentiCA)
   
 - Infrastructure development (2018/01 ~ 2018/05)
@@ -112,7 +113,7 @@ I want to develop a program for a long time. :)
 # Technical Skills 
 - Languages
   - Proficient : C/C++, Python, Shell
-  - Prior experiences : PHP, Javascript, C#, Swift, Ruby
+  - Prior experiences : PHP, Kotlin, Javascript, C#, Swift, Ruby
 - Service & Applications
   - Building experience : Jenkins, Gerrit, MediaWiki, Redmine, iceScrum, Mantis
   - CLI, Systemd, D-bus, Memcached, Proc system
