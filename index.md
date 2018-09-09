@@ -22,7 +22,7 @@ I want to develop a program for a long time. :)
      - Development of security test environment for electric car charging process. (PnC)
      - Development of TLS library to be embedded in EV. (Electric Vehicle)
      - Development of web scraping service to get announcements of national organizations related to vehicle business.
-     - Development of certificate issuing web service according to ISO 15118. (Called AuthentiCA)
+     - Development of certificate issuing web service according to ISO 15118. (Called AmoCA)
   
 - Infrastructure development (2018/01 ~ 2018/05)
   - Role
