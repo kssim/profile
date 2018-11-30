@@ -11,8 +11,8 @@ I want to develop a program for a long time. :)
 
 <br/>
 
-# Professional Experiences 
-### Penta Security System (6Y 9M)
+# Professional Experiences (8Y. 2011/01 ~)
+### Penta Security System (7Y. 2012/01 ~)
 - IoT bussiness related demonstration program development (2018/06 ~ )
   - Role
      - Development of security and test environment for electric vehicle charging infrastructure.(PnC)
@@ -172,6 +172,8 @@ I want to develop a program for a long time. :)
 
 
 # Publish
+- Micro e-learning lecturer (Multicampus)
+  - [Practical use of Python to make things easier](http://www.credu.com/main/credu/user/course/zu_course_detail_R.jsp?p_subj=A51421)
 - 파이썬 답게 코딩하기 (프로그래밍 언어의 개념과 흐름에 대한 고찰)  
   - [Yes24 Link](http://www.yes24.com/24/goods/60493752?scode=032&OzSrank=1)  
   - [Bj PUBLIC](http://bjpublic.tistory.com/301)
