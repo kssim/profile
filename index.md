@@ -11,8 +11,8 @@ I want to develop a program for a long time. :)
 
 <br/>
 
-# Professional Experiences (8Y. 2011/01 ~)
-### Penta Security System (7Y. 2012/01 ~)
+# Professional Experiences (8Y ~ )
+### Penta Security System (7Y ~ )
 - IoT bussiness related demonstration program development (2018/06 ~ )
   - Role
      - Development of security and test environment for electric vehicle charging infrastructure.(PnC)
