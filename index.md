@@ -114,10 +114,10 @@ I want to develop a program for a long time. :)
 # Technical Skills 
 - Languages
   - Proficient : C/C++, Python, Shell
-  - Prior experiences : PHP, Kotlin, Javascript, C#, Swift, Ruby
+  - Prior experiences : Java, PHP, Kotlin, Javascript, C#, Swift, Ruby
 - Service & Applications
   - Building experience : Jenkins, Gerrit, MediaWiki, Redmine, iceScrum, Mantis
-  - CLI, Systemd, D-bus, Memcached, Proc system
+  - PKI, CLI, Systemd, D-bus, Memcached, Proc system
 - Platforms
   - Linux
      - Debian, Ubuntu, Gentoo, CentOS, Raspbian
