@@ -15,6 +15,7 @@ I want to develop a program for a long time. :)
 ### Penta Security System (7Y ~ )
 - IoT bussiness related demonstration program development (2018/06 ~ )
   - Role
+     - Head of V2G PnC product development.
      - Development of security and test environment for electric vehicle charging infrastructure.(PnC)
      - Development of demonstration program for vehicle related business.
   - Experience
@@ -172,6 +173,9 @@ I want to develop a program for a long time. :)
 
 
 # Publish
+- Contributor to MICRO SOFTWARE Magazine 2019 VOL 395.
+  - [Related article links](http://it.chosun.com/site/data/html_dir/2019/02/13/2019021302975.html)
+  - [Magazine information](https://www.imaso.co.kr/archives/4654)
 - Micro e-learning lecturer (Multicampus)
   - [Practical use of Python to make things easier](http://www.credu.com/main/credu/user/course/zu_course_detail_R.jsp?p_subj=A51421)
 - 파이썬 답게 코딩하기 (프로그래밍 언어의 개념과 흐름에 대한 고찰)  
