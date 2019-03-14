@@ -185,6 +185,7 @@ I want to develop a program for a long time. :)
 
 
 # Activity 
+- Penta Security Excellent Staff Award (Engineer Part) (2019/01/11)
 - [Ubuntu Korea Packaging Workshop Speaker (2018/03/31)](https://github.com/kssim/2018-korea-ubuntu-packaging-workshop)
 - [OfficeN Job Interview (2016/04)](http://officen.kr/ajax/ajaxmeminfo.do?memberID=444)
 - Penta Security CON★T Hacker Fight Winner (Team ISeeTroughYou) (2014/12/12)
