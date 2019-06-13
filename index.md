@@ -12,8 +12,14 @@ I want to develop a program for a long time. :)
 <br/>
 
 # Professional Experiences (8Y ~ )
-### Penta Security System (7Y ~ )
-- IoT bussiness related demonstration program development (2018/06 ~ )
+### Texada Software
+- Senior Developer (2019/06 ~ )
+  - Role
+  - Experience
+  
+
+### Penta Security System (7Y 6M)
+- IoT bussiness related demonstration program development (2018/06 ~ 2019/05)
   - Role
      - Head of V2G PnC product development.
      - Development of security and test environment for electric vehicle charging infrastructure.(PnC)
