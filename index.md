@@ -11,11 +11,35 @@ I want to develop a program for a long time. :)
 
 <br/>
 
-# Professional Experiences (8Y ~ )
+# Professional Experiences (11Y ~ )
 ### Texada Software
-- Senior Developer (2019/06 ~ )
+- Senior Software Developer and Team Lead (2020/12 ~ )
   - Role
+     - Senior software developer of cloud-based rental business solutions.
+     - Team Lead / Full-stack dev
   - Experience
+     - API development based on Python/Flask-based env
+     - Web development based on Python/Django/React-based env
+     - Web development based on PHP/React-based env
+     - Re-platforming of legacy solution
+     - Took some part in DevOps work
+
+- Senior Software Developer and Mobile Dev (2020/05 ~ 2021/03)
+  - Role
+     - Senior software developer of cloud-based rental business solutions.
+     - Android dev
+  - Experience
+     - Built CI and repo management way
+     - Internal massive refactoring
+     - Added live-data structure
+
+- Senior Software Developer (2019/06 ~ 2020/11)
+  - Role
+     - Senior software developer of cloud-based rental business solutions.
+     - Full-stack dev
+  - Experience
+     - API development based on Python/Flask-based env
+     - Web development based on Python/Django/React-based env
   
 
 ### Penta Security System (7Y 6M)
