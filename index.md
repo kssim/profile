@@ -11,7 +11,7 @@ I want to develop a program for a long time. :)
 
 <br/>
 
-# Professional Experiences (11Y ~ )
+# Professional Experiences
 ### Texada Software
 - Senior Software Developer and Team Lead (2020/12 ~ )
   - Role
