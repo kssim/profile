@@ -13,7 +13,11 @@ I want to develop a program for a long time. :)
 
 # Professional Experiences
 ### Texada Software
-- Senior Software Developer and Team Lead (2020/12 ~ )
+- Senior Staff Software Engineer and Engineering Team Lead (2023/03 ~ )
+  - Role
+     - Senior staff software engineer of cloud-based rental business solutions.
+     - Team Lead / Full-stack dev
+- Senior Software Developer and Team Lead (2020/12 ~ 2023/02)
   - Role
      - Senior software developer of cloud-based rental business solutions.
      - Team Lead / Full-stack dev
