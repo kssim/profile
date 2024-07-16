@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-I'm a software developer who likes traveling and photography, coffee and books.  
+I'm a software developer who likes travelling and photography, coffee and books.  
 I like Linux and python, and I'm interested in automation, non-binary code and system architecture.  
 I want to write code like writing, and I don't like inefficient, unproductive things.  
 I'm interested in new technologies and languages. And I'm also interested in improving the inconvenience of working with developers.  
@@ -13,14 +13,10 @@ I want to develop a program for a long time. :)
 
 # Professional Experiences
 ### Texada Software
-- Senior Staff Software Engineer and Engineering Team Lead (2023/03 ~ )
+- Rental Management Dept, Web dev(2019/06 ~ )
   - Role
      - Senior staff software engineer of cloud-based rental business solutions.
-     - Team Lead / Full-stack dev
-- Senior Software Developer and Team Lead (2020/12 ~ 2023/02)
-  - Role
-     - Senior software developer of cloud-based rental business solutions.
-     - Team Lead / Full-stack dev
+     - Team Lead / Backend specialty Full-stack dev
   - Experience
      - API development based on Python/Flask-based env
      - Web development based on Python/Django/React-based env
@@ -28,26 +24,18 @@ I want to develop a program for a long time. :)
      - Re-platforming of legacy solution
      - Took some part in DevOps work
 
-- Senior Software Developer and Mobile Dev (2020/05 ~ 2021/03)
+- Rental Management Dept, Mobile dev(2020/05 ~ 2021/03)
   - Role
-     - Senior software developer of cloud-based rental business solutions.
+     - Senior software engineer of cloud-based rental business solutions.
      - Android dev
   - Experience
-     - Built CI and repo management way
-     - Internal massive refactoring
-     - Added live-data structure
-
-- Senior Software Developer (2019/06 ~ 2020/11)
-  - Role
-     - Senior software developer of cloud-based rental business solutions.
-     - Full-stack dev
-  - Experience
-     - API development based on Python/Flask-based env
-     - Web development based on Python/Django/React-based env
+     - Built CI and repo management way on Android app
+     - Internal massive refactoring on Android app
+     - Added live-data structure on Android app
   
 
 ### Penta Security System (7Y 6M)
-- IoT bussiness related demonstration program development (2018/06 ~ 2019/05)
+- Vehicle Security Dept (2018/06 ~ 2019/05)
   - Role
      - Head of V2G PnC product development.
      - Development of security and test environment for electric vehicle charging infrastructure.(PnC)
@@ -59,9 +47,9 @@ I want to develop a program for a long time. :)
      - Development of web scraping service to get announcements of national organizations related to vehicle business.
      - Development of certificate issuing web service according to ISO 15118. (Called AmoCA)
   
-- Infrastructure development (2018/01 ~ 2018/05)
+- WAF Dept, Infrastructure development (2018/01 ~ 2018/05)
   - Role
-     - Team Manager
+     - Team Lead
      - Deployment and development of in-house OS, API and libraries.
      - Development of in-house common infrastructure (Hardware, Virtualization).
   - Experience
@@ -75,7 +63,7 @@ I want to develop a program for a long time. :)
      - Server hardware, bypass/NIC/RAID drivers management based on intel. 
      - Support domestic CC certification.
 
-- Detection engine development (2017/08 ~ 2017/12)
+- WAF Dept, Detection engine development (2017/08 ~ 2017/12)
   - Role
      - Maintain detection engine of WAPPLES (WAF).
      - WAPPLES's (WAF) new detection engine development.
@@ -86,9 +74,9 @@ I want to develop a program for a long time. :)
      - Enhanced handling of each large packet for normal(content-length), chunked, multi-part.
      - Improved session handling and interface enhancement.
 
-- Foundation development (2016/01 ~ 2017/07)
+- WAF Dept, Foundation development (2016/01 ~ 2017/07)
   - Role
-     - Team Manager
+     - Team Lead
      - Debian and Gentoo Linux management and deployment.
      - WAPPLES (WAF) create and deploy integrated packages.
      - WAPPLES (WAF) based daemon, CLI development and management.
@@ -104,13 +92,13 @@ I want to develop a program for a long time. :)
      - Development of WAF performance measurement automation program for Avalanche3100 using Jenkins and TCL.
      - OpenVPN based SSL VPN product development and domestic CC certification support.
 
-- Network platform development (2013/11 ~ 2015/12)
+- WAF Dept, Network platform development (2013/11 ~ 2015/12)
   - Role
      - WAPPLES (WAF) TCP acceleration module and daemon development.
-     - Custom linux development and security patch for TCP acceleration module.
+     - Custom Linux development and security patch for TCP acceleration module.
      - Intel-based hardware management and performance measurement.
   - Experience
-     - Maintaining thg WAF TCP acceleration kernel module.
+     - Maintaining the WAF TCP acceleration kernel module.
      - Development of IPv6 support function of TCP acceleration module.
      - Development of TCP packet processing simulator.
      - Development of integrated package automation test framework using Python, Bash-shell, Jmeter and Jenkins.
@@ -121,7 +109,7 @@ I want to develop a program for a long time. :)
      - Support for virtualization environments such as Hyper-V, RHEL and KVM.
      - Measure and manage performance with Avalanche2900/3100, Breaking Point.
 
-- UX development (2012/01 ~ 2013/10)
+- WAF Dept, UX development (2012/01 ~ 2013/10)
   - Role
      - GUI development of next WAPPLES (WAF). 
   - Experience
@@ -133,24 +121,24 @@ I want to develop a program for a long time. :)
      - Investigate obfuscation methods for code security in the WAF GUI.
 
 ### ENTO Networks (1Y)
-- VPN development (2011/01 ~ 2011/12)
+- VPN Dept (2011/01 ~ 2011/12)
   - Role
-     - Development of debian-based VPN packet processing server.
-     - Windows XP and Win7 based client and network driver development.
+     - Development of Debian-based VPN packet processing server.
+     - Windows XP and Win7-based client and network driver development.
   - Experience
      - Development of VPN packet processing server using netfilter library and C.
      - Maintain Windows XP client with WinAPI and C.
      - Win7 based client development using C# and .Netfraemwork.
-     - Deveopment of Windows XP driver using "passthru" of DDK NDIS.
-     - Developemtn of Win7 packet processing driver using WDK NDIS.
+     - Development of Windows XP driver using "passthru" of DDK NDIS.
+     - Develop of Win7 packet processing driver using WDK NDIS.
 
 
 # Technical Skills 
 - Languages
   - Proficient : C/C++, Python, Shell
-  - Prior experiences : Java, PHP, Kotlin, Javascript, C#, Swift, Ruby
+  - Prior experiences: Java, PHP, Kotlin, Javascript, C#, Swift, Dart
 - Service & Applications
-  - Building experience : Jenkins, Gerrit, MediaWiki, Redmine, iceScrum, Mantis
+  - Building experience: Jenkins, Gerrit, MediaWiki, Redmine, iceScrum, Mantis
   - PKI, CLI, Systemd, D-bus, Memcached, Proc system
 - Platforms
   - Linux
@@ -159,7 +147,7 @@ I want to develop a program for a long time. :)
   - Linux Kernel Module/Drivers
      - i2c, pmbus
      - Network & Bypass based on intel.
-  - Librarys & Frameworks
+  - Libraries & Frameworks
      - Apache2, Nginx, Django, Node.js, Laravel
      - Mysql, MariaDB, PostgreSQL, CouchDB, Sqlite
   - Windows (Unfamiliar)
@@ -179,17 +167,17 @@ I want to develop a program for a long time. :)
      - Avalanche2900, Avalanche3100
      - Breaking Point
   - Hardware
-     - Caswell's intel based server.
+     - Caswell's intel-based server.
      - Raspberry Pi, Arduino
      - Nordic PCA10040 (BLE, uart)
 
 
-# Certificate
+# Certificates
 - Engineer Information Processing
   - HRD Korea (Human Resources Development Service of Korea)
   - 2012/06/01
 - SIS (Specialist for Information Security) Level 2
-  - KISA (Korea Internet Secuirty Agency)
+  - KISA (Korea Internet Security Agency)
   - 2011/08/11
 - Linux Master Level 1
   - KAIT (Korea Association for ICT Promotion)
@@ -199,26 +187,27 @@ I want to develop a program for a long time. :)
 # Education
 - Gachon University (2009 ~ 2016)
   - Bachelor of Engineering (B.E), Computer Science (CS)
-  - Grade : 4.19 / 4.5
+  - Grade: 4.19 / 4.5
   - Club
      - GNU Zone - Linux academic club
      - Defender - Information security club
      - KUCIS - Korea university clubs information security
 
 
-# Publish
+# Publishes
 - Contributor to MICRO SOFTWARE Magazine 2019 VOL 395.
   - [Related article links](http://it.chosun.com/site/data/html_dir/2019/02/13/2019021302975.html)
   - [Magazine information](https://www.imaso.co.kr/archives/4654)
 - Micro e-learning lecturer (Multicampus)
-  - [Practical use of Python to make things easier](http://www.credu.com/main/credu/user/course/zu_course_detail_R.jsp?p_subj=A51421)
-- 파이썬 답게 코딩하기 (프로그래밍 언어의 개념과 흐름에 대한 고찰)  
+  - [Practical use of Python to make things easier](https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw%3D%3D&corsCd=EA0013)
+- 파이썬 답게 코딩하기 (프로그래밍 언어의 개념과 흐름에 대한 고찰)
+  - English title: Coding like Pythonic  
   - [Yes24 Link](http://www.yes24.com/24/goods/60493752?scode=032&OzSrank=1)  
   - [Bj PUBLIC](http://bjpublic.tistory.com/301)
   
 
 
-# Activity 
+# Activities
 - Penta Security Excellent Staff Award (Engineer Part) (2019/01/11)
 - [Ubuntu Korea Packaging Workshop Speaker (2018/03/31)](https://github.com/kssim/2018-korea-ubuntu-packaging-workshop)
 - [OfficeN Job Interview (2016/04)](http://officen.kr/ajax/ajaxmeminfo.do?memberID=444)
