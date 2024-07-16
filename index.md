@@ -13,7 +13,7 @@ I want to develop a program for a long time. :)
 
 # Professional Experiences
 ### Texada Software
-- Rental Management Dept, Web dev(2019/06 ~ )
+- Rental Management Dept, Web dev (2019/06 ~ )
   - Role
      - Senior staff software engineer of cloud-based rental business solutions.
      - Team Lead / Backend specialty Full-stack dev
@@ -24,7 +24,7 @@ I want to develop a program for a long time. :)
      - Re-platforming of legacy solution
      - Took some part in DevOps work
 
-- Rental Management Dept, Mobile dev(2020/05 ~ 2021/03)
+- Rental Management Dept, Mobile dev (2020/05 ~ 2021/03)
   - Role
      - Senior software engineer of cloud-based rental business solutions.
      - Android dev
